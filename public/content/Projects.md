@@ -1,26 +1,21 @@
-## Project A
-Description
-- ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 1
+## Building a basic Emulator and Assembler in C
+I completed a month long group project, using C, in which we created a basic Emulator and Assembler. This project gave me experience creating a large scale system, whilst collaborating with multiple people.  
+<!-- - ![600x200](https://via.placeholder.com/600x200) -->
+- Tags: C Project
 - Badges:
-  - Badge [blue]
-- Buttons:
-  - Link [https://example.com]
+  - Group Project [red]
+  - C [blue]
+  - Git [blue]
 
-## Project B
-Description
-- ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 2
-- Badges:
-  - Badge [blue]
-- Buttons:
-  - Link [https://example.com]
 
-## Project C
-Description
-- ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 3
+## My Portfolio Page (This Website)
+Having completed an internship learning the basics of Front-End and Back-End web development, I wanted to learn how to effectively use the ReactJs library. This website is the product of that process!
+<!-- - ![600x200](https://via.placeholder.com/600x200) -->
+- Tags: Portfolio Page
 - Badges:
-  - Badge [blue]
+  - Individual [red]
+  - React [blue]
+  - JS [blue]
+  - Chakra UI [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Website [https://sethmack.com]

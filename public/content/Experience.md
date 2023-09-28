@@ -1,29 +1,37 @@
-## Company 1
-- *Role* | Jan'23 - Feb'23
-- ![logo512](../assets/logo512.png)
-- Tags: Category 1
+## Wine-Searcher
+- *Front End/Back End Web Developer* | July'23 - Aug'23
+- ![ws](../assets/ws.jpeg)
+- Tags: Web Development
 - Badges:
-  - Badge [blue]
+  - Internship [red]
+  - JS [blue]
+  - PHP [blue]
+  - SVN [blue]
+  - SQL [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - I individually created a timesheet system from scratch which the company now uses daily
+  - I worked in a team on bug fixes and updates for the main site using SVN for version control and deployment
 
-## Company 2
-- *Role* | Feb'23 - Mar'23
-- ![logo512](../assets/logo512.png)
-- Tags: Category 2
+## Wine-Searcher
+- *Java Web Crawler Writer* | Jan'22 - June'22
+- ![ws](../assets/ws.jpeg)
+- Tags: Java
 - Badges:
-  - Badge [blue]
+  - Full-time Work [red]
+  - Java [blue]
+  - Team Management [blue]
+  - Git [blue]
+  - AWS [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - I taught myself the relevant skills to write and maintain Web Crawlers for the company
+  - I hired, trained and managed 3 other employees in the same role
 
-## Company 3
-- *Role* | Mar'23 - Apr'23
-- ![logo512](../assets/logo512.png)
-- Tags: Category 3
+## JPMorgan Chase
+- *Software Engineering Virtual Experience* | Aug'21
+- ![Chase](../assets/Chase.png)
+- Tags: Python Data Visualisation
 - Badges:
-  - Badge [blue]
+  - Virtual Experience [red]
+  - Python [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - I completed a task in Python in which I developed an alternative way to visualize and analyze data for JPMorgan traders

@@ -61,7 +61,7 @@ export default function Projects({ color }) {
                   }}
                   overflow="hidden"
                 >
-                  <Image objectFit="cover" src={project.image} />
+                  {/* <Image objectFit="cover" src={project.image} /> */}
 
                   <Stack>
                     <CardBody align="left">
@@ -94,7 +94,7 @@ export default function Projects({ color }) {
               </Fade>
             ))}
           </Stack>
-          <Text color={"gray.600"} fontSize={"xl"} px={4}>
+          {/* <Text color={"gray.600"} fontSize={"xl"} px={4}>
             Other Projects
           </Text>
           <Center px={4}>
@@ -162,7 +162,7 @@ export default function Projects({ color }) {
                   </Card>
                 </Fade>
               ))}
-          </SimpleGrid>
+          </SimpleGrid> */}
         </Stack>
       </Container>
     </>
